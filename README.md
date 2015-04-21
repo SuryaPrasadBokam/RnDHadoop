@@ -1,3 +1,3 @@
 # RnDHadoop
 
-For RND Hadoop related projects
+For Hadoop RnD related files
